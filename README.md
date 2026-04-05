@@ -1,24 +1,24 @@
 # Linear Regression Project
 
-## 📌 Problem Statement
+##  Problem Statement
 This project aims to predict output using Linear Regression based on input features.
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - Scikit-learn
 - Matplotlib
 
-## 🤖 Model
+##  Model
 Linear Regression model is used to learn the relationship between input and output.
 
-## 📊 Evaluation
+##  Evaluation
 Model performance is evaluated using:
 - R² Score
 - Adjusted R² Score
 
-## 📈 Visualization
+##  Visualization
 Actual vs Predicted values are plotted to analyze model performance.
 
-## ✅ Conclusion
+##  Conclusion
 The model performs well and explains a significant portion of variance in the data.
